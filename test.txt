@@ -1,0 +1,8 @@
+Ceci est une ligne
+Et la encore une ligne
+mais après avec une nouvelle ligne
+qui est la
+la preuve
+c'est que le programme trouve la nouvelle ligne.
+Merci
+vive les chats.
